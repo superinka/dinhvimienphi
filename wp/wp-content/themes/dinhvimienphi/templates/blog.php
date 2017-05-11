@@ -88,7 +88,9 @@
             </div>
 
         </div>
-        <div class="view-more">
-            <a class="btn btn-primary btn-block" href="#">Xem tất cả</a>
+        <div class="container">
+            <div class="view-more">
+                <a class="btn btn-primary btn-block" href="#">Xem tất cả</a>
+            </div>
         </div>
     </section>
