@@ -1296,3 +1296,16 @@ ul.nostyle i {
 .view-more {
     text-align: center;
 }
+
+
+/*slide blog*/
+
+.blog-list>.owl-controls {
+    position: absolute;
+    top: 40%;
+}
+
+.entry-thmbnail-small img {
+    max-width: 263px;
+    height: 301px;
+}

@@ -82,7 +82,7 @@ function register_my_menus() {
 add_action( 'init', 'register_my_menus' );
 
 function wpdocs_custom_excerpt_length( $length ) {
-    return 20;
+    return 60;
 }
 add_filter( 'excerpt_length', 'wpdocs_custom_excerpt_length', 999 );
 
